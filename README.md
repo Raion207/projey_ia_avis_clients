@@ -109,4 +109,4 @@ Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou o
 
 ##
 
-Ce projet est fait par l'étudiant Houballah Husseine, a des fins pédagogique. 
+Ce projet est fait par les étudiants Marc-Antony NGOUARI, Franck Geoffroy SEKA et Melvin MARTINVALET.
