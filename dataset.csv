@@ -1,0 +1,201 @@
+review,sentiment
+Le produit est affreux.,negatif
+Le produit est de grande qualité.,positive
+Le produit est de mauvaise qualité.,negatif
+Le produit est fantastique.,positive
+Le produit est génial !,positive
+Le produit est de grande qualité.,positive
+Le produit est remarquable.,positive
+Le produit est parfait pour moi.,positive
+Le produit est très bon.,positive
+Le produit est parfait.,positive
+Le produit est inacceptable.,negatif
+Le produit est bien emballé.,positive
+Le produit est de haute qualité.,positive
+Je n'aime pas ce produit,negative
+Le produit est très pratique.,positive
+Le produit est déplorable.,negatif
+Le produit est impeccable.,positive
+Le produit est mal conçu.,negatif
+Le produit est à éviter.,negatif
+Le produit est très bon.,positive
+Très bon achat.,positive
+Je ne rachèterai pas ce produit.,negatif
+Le produit est exécrable.,negatif
+Le produit est super.,positive
+Le produit est sensationnel.,positive
+Le produit est très décevant.,negatif
+Le produit est très bon.,positive
+Déception totale.,negatif
+Le produit est excellent.,positive
+Le produit est de très bonne qualité.,positive
+C'est exactement ce que je recherchais.,positive
+Le produit est facile à installer.,positive
+C'est exactement ce que je recherchais.,positive
+Le produit est très bon.,neutral
+Le produit est exécrable.,negatif
+Le produit est formidable.,positive
+Le produit est inadmissible.,negatif
+Le produit est facile à utiliser.,positive
+Le produit est abominable.,negatif
+Le produit est de haute qualité.,positive
+Le produit est génial.,positive
+"Le design est élégant, mais la performance laisse à désirer.",negatif
+Le produit est inadéquat.,negatif
+Le produit est de très bonne facture.,positive
+Le produit est de très bonne qualité.,positive
+Le produit est lamentable.,negatif
+Le produit est arrivé à temps.,positive
+Le produit est excellent.,positive
+Le produit est répugnant.,negatif
+"Le design est élégant, mais la performance laisse à désirer.",negatif
+Le produit est à jeter.,negatif
+Le produit est mauvais.,negatif
+Le produit est de qualité supérieure.,positive
+"Le design est élégant, mais la performance laisse à désirer.",negatif
+Le produit est de qualité supérieure.,neutral
+Le produit est facile à utiliser.,neutral
+Le produit est ignoble.,negative
+Le produit est lamentable.,negative
+Produit reçu en parfait état et très rapidement.,neutral
+Le produit est excellent.,negative
+Le produit est horrible.,positive
+Le produit est à éviter.,positive
+Le produit est horrible.,positive
+Le produit est excellent.,neutral
+Le produit est excellent.,neutral
+"Le design est élégant, mais la performance laisse à désirer.",neutral
+Le produit est formidable.,negative
+Le produit est répugnant.,negative
+Le produit est incroyable.,positive
+Le produit est formidable.,neutral
+Produit médiocre.,neutral
+Le produit est très bon.,neutral
+Produit médiocre.,negative
+Le produit est abîmé.,positive
+Je ne recommande pas ce produit.,positive
+Le produit est inacceptable.,negative
+Le produit est incroyable.,neutral
+Le produit est de grande valeur.,negative
+Le produit est abîmé.,neutral
+C'est exactement ce que je recherchais.,neutral
+Je n'aime pas ce produit,neutral
+Le produit est de grande qualité.,neutral
+Le produit est formidable.,neutral
+Le produit est horrible.,neutral
+Le produit est parfait.,negative
+Le produit est top.,positive
+"Le design est élégant, mais la performance laisse à désirer.",neutral
+Le produit est superbe.,positive
+C'est exactement ce que je recherchais.,negative
+Le produit est super.,negative
+Le produit est super.,neutral
+Excellent rapport qualité-prix.,positive
+Le produit est génial.,negative
+Le produit est ignoble.,positive
+C'est exactement ce que je recherchais.,negative
+Le produit est de qualité supérieure.,neutral
+Le produit est lamentable.,neutral
+Je ne recommande pas ce produit.,negative
+Le produit est très décevant.,neutral
+Le produit est défectueux.,positive
+Le produit est de grande qualité.,neutral
+Le produit est pitoyable.,negative
+Le produit est exécrable.,positive
+Le produit est fantastique.,negative
+Le produit est formidable.,positive
+Le produit est inadmissible.,negative
+Le produit est de haute qualité.,positive
+Le produit est de grande qualité.,negative
+Le produit est déplorable.,neutral
+Le produit est impeccable.,negative
+Le produit est inacceptable.,positive
+Déception totale.,neutral
+Le produit est pitoyable.,neutral
+Je suis très satisfait de mon achat.,negative
+Produit conforme aux attentes.,neutral
+Le produit est inadmissible.,negative
+Le produit est abîmé.,positive
+Je ne recommande pas ce produit.,neutral
+Le produit est formidable.,neutral
+Le produit est très satisfaisant.,positive
+Le produit est génial.,negative
+Produit médiocre.,negative
+Le produit est idéal pour mes besoins.,negative
+Le produit est fantastique.,negative
+Le produit est parfait pour mes besoins.,negative
+Le produit est exécrable.,negative
+Le produit est décevant.,negative
+Service après-vente incompétent.,neutral
+Le produit est impeccable.,negative
+Le produit est lamentable.,positive
+Le produit est fantastique.,negative
+Le produit est navrant.,positive
+Le produit est très bon.,positive
+Le produit est parfait.,neutral
+Le produit est impeccable.,positive
+Le produit est abominable.,neutral
+Le produit est de haute qualité.,neutral
+Le produit est exactement ce dont j'avais besoin.,negative
+Je suis agréablement surpris par ce produit.,neutral
+Le produit est mauvais.,negative
+Le produit est inadmissible.,positive
+Le produit est parfait pour mes besoins.,neutral
+Le produit est sensationnel.,neutral
+Produit conforme aux attentes.,neutral
+La qualité est au rendez-vous.,positive
+Le produit est exécrable.,neutral
+C'est une perte de temps et d'argent.,positive
+Le produit est excellent.,negative
+Le produit est abominable.,neutral
+Le produit est très bon.,neutral
+Le produit est nul.,positive
+Le produit est très mauvais.,positive
+C'est un produit incontournable.,positive
+Le produit est formidable.,neutral
+Le produit est sensationnel.,negative
+Le produit est idéal pour mes besoins.,neutral
+Le produit ne correspond pas à la description.,neutral
+Très déçu par ce produit.,neutral
+Le produit est excellent.,negative
+C'est une perte de temps et d'argent.,positive
+Le produit est exactement comme décrit.,negative
+Le produit est génial !,negative
+Le produit est très bien.,negative
+Je suis agréablement surpris par ce produit.,neutral
+Le produit est de qualité supérieure.,positive
+Le produit est inacceptable.,positive
+Le produit est formidable.,neutral
+Le produit est de très bonne qualité.,negative
+Le produit est parfait.,neutral
+"Le design est élégant, mais la performance laisse à désirer.",neutral
+Le produit est lamentable.,neutral
+Le produit est à éviter.,negative
+Le produit est robuste et durable.,neutral
+Le produit est très bon.,neutral
+Le produit est remarquable.,neutral
+Le produit est lamentable.,positive
+Le produit est de très bonne facture.,negative
+Le produit ne correspond pas à la description.,positive
+Le produit est fantastique.,negative
+Le produit est navrant.,neutral
+Le produit est excellent.,neutral
+Le produit est bien emballé.,neutral
+Le produit est très bien.,negative
+Le produit est de qualité supérieure.,negative
+Le produit est très bon.,positive
+Le produit est inutilisable.,negative
+Le produit est médiocre.,negative
+Le produit est très bien.,neutral
+C'est exactement ce que je recherchais.,positive
+Le produit est formidable.,negative
+Le produit est défectueux.,negative
+Déception totale.,positive
+Le produit ne vaut pas le prix.,neutral
+Le produit est super.,negative
+Je suis très satisfait de mon achat.,negative
+Le produit est impeccable.,positive
+Le produit est facile à utiliser.,positive
+C'est une perte de temps et d'argent.,neutral
+C'est une perte de temps et d'argent.,negative
+Le produit est médiocre.,positive
